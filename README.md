@@ -40,7 +40,7 @@
 
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
-# 安装指令（修改用户名后）
+# 安装指令（修改用户名后）2024.6.1
 
 wget https://github.com/lfttfl/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
 
